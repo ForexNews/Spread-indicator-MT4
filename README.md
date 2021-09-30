@@ -16,6 +16,9 @@
 - Position X : 20
 - Position Y : 60
 
+## Formula
+- Current spread = [Ask Price - Bid Price]
+
 ## MQL4 Code
 
 ```
