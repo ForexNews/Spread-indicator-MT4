@@ -3,7 +3,7 @@
 - Spread indicator is a tool to display the spread of the current symbol.
 - Useful to monitor, if broker changing spread, during the economic news announcements.
 - Real-time spread monitoring.
-- Coding for MetaTrader 4 platform.
+- Coding for MetaTrader 4 platform and all brokers.
 - See working example at [Spread indicator](https://forexnew.org/คลังความรู้/spread-bid-ask-คืออะไร/#indicators)
 
 ## Inputs Parameter
