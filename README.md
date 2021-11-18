@@ -19,7 +19,7 @@
 ## Formula
 - Current spread = [Ask Price - Bid Price]
 
-## MQL4 Code
+### MQL4 Code
 
 ```
 #property copyright    "ForexNew.org Opensource"
@@ -95,5 +95,5 @@ void OnDeinit(const int reason)
    ObjectsDeleteAll(0,"Custom_Label");
 }
 ```
-## Visit our website
+#### Visit our website
 - [ForexNew.org](https://forexnew.org/)
